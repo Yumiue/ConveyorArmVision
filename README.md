@@ -22,6 +22,7 @@
 - main是追踪的入口程序
 - tracker是封装了追踪器实例初始化、对输入追踪器数据进行前后处理，以及启动追踪器的类定义脚本
 - sel_model封装了模型加载、前后数据处理、推理
+***
 ## 项目使用说明
 - 克隆仓库到本地：git clone https://github.com/mjz001/ConveyorArmVision.git
 - 安装环境依赖：pip install -r requirements.txt
